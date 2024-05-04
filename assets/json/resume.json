@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Zhaohua Zeng",
+    "label": "PhD Student",
     "image": "",
-    "email": "albert@einstein.de",
+    "email": "zhaohua.zeng@emory.edu",
     "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "url": "https://zzeng75.github.io/",
+    "summary": "An incoming PhD student in Epidemiology at Emory University Rollins School of Public Health",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "1518 Clifton Rd. NE",
+      "postalCode": "GA 30322",
+      "city": "Atlanta",
       "countryCode": "US",
-      "region": "California"
+      "region": "Georgia"
     },
     "profiles": [
       {
