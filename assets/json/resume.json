@@ -4,7 +4,6 @@
     "label": "PhD Student",
     "image": "",
     "email": "zhaohua.zeng@emory.edu",
-    "phone": "(912) 123-4567",
     "url": "https://zzeng75.github.io/",
     "summary": "An incoming PhD student in Epidemiology at Emory University Rollins School of Public Health",
     "location": {
@@ -51,14 +50,14 @@
       "url": "https://www.emory.edu/",
       "area": "Epidemiology",
       "studyType": "MSPH",
-      "date": "2022-06-01"
+      "releaseDate": "2024-05"
     },
     {
       "institution": "Xiamen University",
       "url": "https://www.xmu.edu.cn/",
       "area": "Preventive Medicine",
       "studyType": "Bachelor of Medicine",
-      "date": "2022-05-13"
+      "releaseDate": "2022-06"
     }
   ],
   "awards": [
