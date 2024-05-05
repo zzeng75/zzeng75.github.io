@@ -52,7 +52,7 @@
       "url": "https://www.emory.edu/",
       "area": "Epidemiology",
       "studyType": "MSPH",
-      "endDate": "2024-05-13"
+      "date": "2024-05-13"
     }
     {
       "institution": "Xiamen University",
@@ -60,7 +60,7 @@
       "url": "https://www.xmu.edu.cn/",
       "area": "Preventive Medicine",
       "studyType": "Bachelor of Medicine",
-      "endDate": "2022-06-15"
+      "date": "2022-06-15"
     }
   ],
   "awards": [
