@@ -6,8 +6,8 @@ title: Zhaohua Zeng
 # name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Zhaohua
+last_name: Zeng
 
 # Status emoji
 status:
