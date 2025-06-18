@@ -24,7 +24,8 @@ role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Emory University Rollins School of Public Health \\ Department of Epidemiology
+  - name: Emory University Rollins School of Public Health
+  - name: Department of Epidemiology
     url: http://sph.emory.edu/departments/epidemiology
 
 # Social network links
