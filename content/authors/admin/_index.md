@@ -25,6 +25,7 @@ role: PhD Student
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Emory University Rollins School of Public Health
+    url: http://sph.emory.edu
   - name: Department of Epidemiology
     url: http://sph.emory.edu/departments/epidemiology
 
@@ -48,14 +49,14 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Causal Inference
+  - Epidemiology
+  - Machine Learning
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
+  - area: PhD Epidemiology
+    institution: Emory University
+    date_start: 2024-08-15
     date_end: 2020-12-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
